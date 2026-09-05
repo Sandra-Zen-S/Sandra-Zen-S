@@ -1,0 +1,33 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    {
+      "label": "Python",
+      "value": 90
+    },
+    {
+      "label": "Java",
+      "value": 80
+    },
+    {
+      "label": "Machine Learning",
+      "value": 80
+    },
+    {
+      "label": "Deep Learning",
+      "value": 75
+    },
+    {
+      "label": "Computer Vision",
+      "value": 60
+    },
+    {
+      "label": "Cybersecurity",
+      "value": 70
+    },
+    {
+      "label": "Flutter",
+      "value": 85
+    }
+  ]
+}
