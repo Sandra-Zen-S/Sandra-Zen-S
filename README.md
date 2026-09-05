@@ -13,3 +13,26 @@
 </p>
 
 </div>
+<h2>⚡ About Me</h2>
+
+<p align="left">
+
+🎓 <b>Computer Science Student</b> interested in building intelligent and secure software systems.
+
+<br>
+
+🤖 Exploring <b>Artificial Intelligence, Machine Learning, Deep Learning & Computer Vision</b>
+
+<br>
+
+🔐 Interested in <b>Cryptography & Network Security</b>
+
+<br>
+
+📱 Building applications with <b>Flutter</b>
+
+<br>
+
+💻 Working with <b>Python & Java</b>
+
+</p>
