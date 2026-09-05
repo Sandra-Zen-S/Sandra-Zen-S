@@ -35,27 +35,45 @@
 
 <br>
 
+<br>
+
 <h2>📊 Skills & Languages</h2>
 
 <table>
 <tr>
-<td width="50%" align="center">
 
-### 🧠 Skills
+<td width="50%" valign="top">
 
-<img src="assets/radar-dark.svg" width="400" alt="Skill Radar">
+<br>
 
-</td>
+<h2>🧠 Skills & Languages</h2>
 
-<td width="50%" align="center">
+<p>
+  <b>💻 Programming</b><br>
+  <img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=3776AB">
+  <img src="https://img.shields.io/badge/Java-18181B?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
+  <img src="https://img.shields.io/badge/Dart-18181B?style=for-the-badge&logo=dart&logoColor=0175C2">
+</p>
 
-### 💻 Languages
+<p>
+  <b>🤖 AI & Machine Learning</b><br>
+  <img src="https://img.shields.io/badge/Machine_Learning-18181B?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
+  <img src="https://img.shields.io/badge/Deep_Learning-18181B?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
+  <img src="https://img.shields.io/badge/Computer_Vision-18181B?style=for-the-badge&logo=opencv&logoColor=5C3EE8">
+</p>
 
-<img src="assets/radar-langs-dark.svg" width="400" alt="Language Radar">
+<p>
+  <b>🔐 Security</b><br>
+  <img src="https://img.shields.io/badge/Cryptography-18181B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Network_Security-18181B?style=for-the-badge">
+</p>
 
-</td>
-</tr>
-</table>
+<p>
+  <b>📱 Development</b><br>
+  <img src="https://img.shields.io/badge/Flutter-18181B?style=for-the-badge&logo=flutter&logoColor=02569B">
+  <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032">
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF">
+</p>
 
 <br>
 
@@ -121,11 +139,16 @@ A private project currently under development.
 
 <br>
 
+<br>
+
 <h2>📫 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sandrazen-s-123ab8287">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    >
   </a>
 </p>
 
